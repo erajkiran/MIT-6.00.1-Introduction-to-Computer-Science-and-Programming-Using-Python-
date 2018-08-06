@@ -3,3 +3,5 @@ This is 6.00.1 ( Introduction to Computer Science and Programming Using Python )
 
 Professor Eric Grimson is the Best Professor of Massachusetts Institute of Technology..
 The Way He Explains Concepts Reflects The Real World..
+
+Problem Sets are bit difficult, but if you take some time and Think in Right way, You will Definetely get The Correct Solution...
